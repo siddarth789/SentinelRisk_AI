@@ -1,0 +1,3 @@
+# SentinelRisk_AI
+ML-based Loan Risk Prediction System with Data Drift Detection (KS, PSI), Performance Monitoring, and Automated Retraining Alerts
+An end-to-end Machine Learning system that predicts loan risk and continuously monitors model performance using drift detection techniques (KS Test, PSI). The system automatically identifies data changes, generates alerts, and triggers retraining to maintain accuracy over time.
